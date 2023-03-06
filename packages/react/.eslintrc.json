@@ -1,4 +1,4 @@
 {
-  "extends": ["@ignite-ui/eslint-config"]
+  "extends": ["@alyssonvitor500-ignite-ui/eslint-config"]
 }
   

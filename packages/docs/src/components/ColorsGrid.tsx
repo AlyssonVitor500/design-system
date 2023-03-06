@@ -1,4 +1,4 @@
-import { colors, fonts } from '@ignite-ui/tokens'
+import { colors, fonts } from '@alyssonvitor500-ignite-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

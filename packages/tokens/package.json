@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@alyssonvitor500-ignite-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -18,7 +18,7 @@
   "devDependencies": {
     "tsup": "^6.6.3",
     "typescript": "^4.9.5",
-    "@ignite-ui/ts-config": "*",
-    "@ignite-ui/eslint-config": "*"
+    "@alyssonvitor500-ignite-ui/ts-config": "*",
+    "@alyssonvitor500-ignite-ui/eslint-config": "*"
   }
 }

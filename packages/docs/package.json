@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@alyssonvitor500-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "vite.config.js",
@@ -28,10 +28,10 @@
     "vite": "^4.1.1"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@alyssonvitor500-ignite-ui/eslint-config": "*",
+    "@alyssonvitor500-ignite-ui/react": "*",
+    "@alyssonvitor500-ignite-ui/tokens": "*",
+    "@alyssonvitor500-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.16",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
